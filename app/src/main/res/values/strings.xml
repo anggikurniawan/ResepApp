@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Resepku</string>
+    <string-array name="array_resep">
+        <item>Ayam Goreng</item>
+        <item>Ayam Bakar</item>
+        <item>Bebek Goreng</item>
+        <item>Bebek Bakar</item>
+        <item>Telur Ceplok</item>
+        <item>Telur Dadar</item>
+        <item>Nila Goreng</item>
+        <item>Nila Bakar</item>
+    </string-array>
+</resources>
